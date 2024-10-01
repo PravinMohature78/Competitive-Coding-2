@@ -1,6 +1,6 @@
 # Time Complexity : O(n)
 # Space Complexity : O(n)
-# Did this code successfully run on Leetcode : yes
+# Did this code successfully run on Leetcode : no
 # Any problem you faced while coding this : no
 
 def knapSack(weight, profit, W, n):
